@@ -21,7 +21,7 @@ Aqui você pode navegar por cada uma das Sprints desenvolvidas durante o program
 
 | Sprint | Status | Link |
 | :---: | :---: | :---: |
-| **Sprint 1** | FINALIZADA | [Acessar Pasta](./Sprint%201/) |
+| **Sprint 1** | FINALIZADA | [Acessar Pasta](https://github.com/Anabmlivia/analiviacompassuol) |
 | **Sprint 2** | ⚫ Aguardando | [Acessar Pasta](./Sprint%202/) |
 | **Sprint 3** | ⚫ Aguardando | [Acessar Pasta](./Sprint%203/) |
 | **Sprint 4** | ⚫ Aguardando | [Acessar Pasta](./Sprint%204/) |
